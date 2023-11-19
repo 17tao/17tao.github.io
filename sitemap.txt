@@ -1,5 +1,4 @@
 http://example.com/post/undefined.html
-http://example.com/post/undefined.html
 http://example.com/about/index.html
 http://example.com/link/index.html
 http://example.com/categories/index.html
