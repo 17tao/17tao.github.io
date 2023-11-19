@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-11-16T06:30:25.449Z</updated>
+  <updated>2023-11-19T03:10:51.641Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>工程测量review</title>
+    <link href="http://example.com/post/undefined.html"/>
+    <id>http://example.com/post/undefined.html</id>
+    <published>2023-11-19T02:52:22.000Z</published>
+    <updated>2023-11-19T03:10:51.641Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><h2 id="绪论"><a href="#绪论" class="headerlink" title="绪论"></a>绪论</h2><p>高斯投影的<strong>概念</strong>：<br>高斯投影的<strong>基本原理</strong>：设想用一个空心椭圆柱横套在地球椭球外面，使椭圆柱的中心轴线位于赤道面内且通过球心，并与地球椭球上某一子午线（称为<strong>中央子午线</strong>）相切，然后按<strong>等角投影</strong>方法，将中央子午线两侧一定经差范围内的点、线投影到椭圆柱面上，然后将椭圆柱沿着过南北两极的母线切开，展成平面即可在该平面上定义平面直角坐标系。</p></body></html>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;h2 id=&quot;绪论&quot;&gt;&lt;a href=&quot;#绪论&quot; class=&quot;headerlink&quot; title=&quot;绪论&quot;&gt;&lt;/a&gt;绪论&lt;/h2&gt;&lt;p&gt;高斯投影的&lt;strong&gt;概念&lt;/strong&gt;：&lt;br&gt;高斯投影的&lt;strong&gt;基本原</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>你好世界</title>

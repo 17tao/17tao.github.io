@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>工程测量review</title>
+      <link href="/post/undefined.html"/>
+      <url>/post/undefined.html</url>
+      
+        <content type="html"><![CDATA[<html><head></head><body><h2 id="绪论"><a href="#绪论" class="headerlink" title="绪论"></a>绪论</h2><p>高斯投影的<strong>概念</strong>：<br>高斯投影的<strong>基本原理</strong>：设想用一个空心椭圆柱横套在地球椭球外面，使椭圆柱的中心轴线位于赤道面内且通过球心，并与地球椭球上某一子午线（称为<strong>中央子午线</strong>）相切，然后按<strong>等角投影</strong>方法，将中央子午线两侧一定经差范围内的点、线投影到椭圆柱面上，然后将椭圆柱沿着过南北两极的母线切开，展成平面即可在该平面上定义平面直角坐标系。</p></body></html>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>你好世界</title>
       <link href="/post/undefined.html"/>
       <url>/post/undefined.html</url>
@@ -17,6 +30,50 @@
     
   
   
+    
+    
+    <entry>
+      <title>关于作者</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<html><head></head><body></body></html>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[<html><head></head><body></body></html>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[<html><head></head><body></body></html>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[<html><head></head><body></body></html>]]></content>
+      
+    </entry>
+    
     
   
 </search>
